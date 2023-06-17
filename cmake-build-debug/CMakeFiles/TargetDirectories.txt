@@ -1,0 +1,10 @@
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_render.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_texture.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_spheres.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_earth.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_emit.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_empty.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/test_cornell_box.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/final_scene.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/RayTracingtheNextWeek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

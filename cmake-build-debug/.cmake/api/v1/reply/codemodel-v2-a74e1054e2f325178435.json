@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RayTracingtheNextWeek",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "final_scene::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-final_scene-Debug-b7a718e0238cf6bbfc00.json",
+					"name" : "final_scene",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_cornell_box::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_cornell_box-Debug-6e8b0372d544d379d261.json",
+					"name" : "test_cornell_box",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_earth::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_earth-Debug-4987365495cb870f8eac.json",
+					"name" : "test_earth",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_emit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_emit-Debug-1d2cac7bedae510c1f28.json",
+					"name" : "test_emit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_empty::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_empty-Debug-672f65ff6d1f0ae894c8.json",
+					"name" : "test_empty",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_render::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_render-Debug-83a0222ca3c0ce3e0db1.json",
+					"name" : "test_render",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_spheres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_spheres-Debug-bea1c3619847814ddd79.json",
+					"name" : "test_spheres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_texture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_texture-Debug-f4511c731fb247ab6834.json",
+					"name" : "test_texture",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/RayTracingtheNextWeek/cmake-build-debug",
+		"source" : "D:/C++/RayTracingtheNextWeek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

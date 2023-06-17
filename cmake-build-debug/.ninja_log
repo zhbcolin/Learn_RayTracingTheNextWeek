@@ -1,0 +1,20 @@
+# ninja log v5
+0	1311	7083253136770872	CMakeFiles/final_render.dir/main.cpp.obj	5a69ca8e46d119de
+3	1317	7083286152515133	CMakeFiles/test_render.dir/test/test_render.cpp.obj	31f562907794d5c0
+3	1566	7086925423757338	CMakeFiles/test_earth.dir/test/test_earth.cpp.obj	614c4ccc63ba447a
+1317	1457	7083286153896277	D:/C++/RayTracingtheNextWeek/bin/test_render.exe	ccd86389450c154f
+1981	2352	7086109613864985	D:/C++/RayTracingtheNextWeek/bin/test_texture.exe	b2942fcd5ba946d
+3	1213	7086285499482724	CMakeFiles/test_spheres.dir/test/test_spheres.cpp.obj	10c71ba8a1e8ca3d
+1	1980	7086109610154720	CMakeFiles/test_texture.dir/test/test_texture.cpp.obj	a6e76e0a68893719
+1214	1321	7086285500519765	D:/C++/RayTracingtheNextWeek/bin/test_spheres.exe	7ad4304730f25c84
+1566	1681	7086925424898334	D:/C++/RayTracingtheNextWeek/bin/test_earth.exe	691b82b98e53b69c
+0	1547	7086925633264089	CMakeFiles/test_emit.dir/test/test_emit.cpp.obj	382e87d4fcf7b13d
+1547	1696	7086925634730891	D:/C++/RayTracingtheNextWeek/bin/test_emit.exe	399d4f8863bae7a4
+2	1883	7087026063682467	CMakeFiles/test_empty.dir/test/test_empty.cpp.obj	68787dbc9ce1eb4a
+1884	2099	7087026065836058	D:/C++/RayTracingtheNextWeek/bin/test_empty.exe	4c17a684eb3a63be
+1	1949	7087048125755192	CMakeFiles/test_cornell_box.dir/test/test_cornell_box.cpp.obj	93cda8aeb13b5313
+1949	2192	7087048128171459	D:/C++/RayTracingtheNextWeek/bin/test_cornell_box.exe	6b5646de74da7f32
+0	2568	7087069279668554	CMakeFiles/final_scene.dir/final_scene.cpp.obj	d741f52d72f02783
+2568	3047	7087069284481427	D:/C++/RayTracingtheNextWeek/bin/final_scene.exe	9f387d1c987ceb7c
+2	2249	7087123916563972	CMakeFiles/final_scene.dir/final_scene.cpp.obj	d741f52d72f02783
+2250	2727	7087123921345027	D:/C++/RayTracingtheNextWeek/bin/final_scene.exe	9f387d1c987ceb7c
